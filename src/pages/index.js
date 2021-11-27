@@ -19,21 +19,23 @@ const Index = () => (
       You can find me on <XA href="https://twitter.com/itsron143">Twitter</XA>,{" "}
       <XA href="https://github.com/itsron717">Github</XA>,
       <XA href="https://www.linkedin.com/in/itsron143/"> LinkedIn</XA>, and{" "}
-      <XA href="https://www.strava.com/athletes/57025908">Strava</XA>, or reach
-      me via <XA href="mailto:rounakvyas@outlook.com">email</XA>.
+      <XA href="https://open.spotify.com/user/mevingmonson">Spotify</XA>, or
+      reach me via <XA href="mailto:mevingmonson@gmail.com">email</XA>.
     </p>
     <h2>Colophon</h2>
     <p>
-      The credits for this excellet template goes to{" "}
+      The credits for this excellent template goes to{" "}
       <XA href="https://twitter.com/prestonrichey">Preston Richey</XA>. This
       site was made with <XA href="https://www.gatsbyjs.org/">Gatsby.js</XA> and
       is hosted on <XA href="https://www.netlify.com/">Netlify</XA>. You can
       look at its code{" "}
       <XA href="https://github.com/itsron717/rounakvyas.me">here</XA>. The
       monospace font is{" "}
-      <XA href="https://fonts.google.com/specimen/Roboto+Mono">Roboto Mono</XA>{" "}
+      <XA href="https://fonts.google.com/specimen/IBM+Plex+Mono">
+        IBM Plex Mono
+      </XA>{" "}
       and the sans-serif is{" "}
-      <XA href="https://fonts.google.com/specimen/Rubik">Rubik</XA>.
+      <XA href="https://fonts.google.com/specimen/PT+Sans">PT Sans</XA>.
     </p>
   </Layout>
 );
