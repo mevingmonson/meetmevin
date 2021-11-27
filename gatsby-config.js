@@ -4,7 +4,7 @@ module.exports = {
     description:
       "Software engineer, React developer and an open source enthusiast",
     author: "@mevingmonson",
-    // siteUrl: "https://rounakvyas.me",
+    siteUrl: "https://admiring-poincare-c43d82.netlify.app/",
   },
   plugins: [
     "gatsby-plugin-dark-mode",
