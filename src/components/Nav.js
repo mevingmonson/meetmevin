@@ -101,7 +101,7 @@ const Nav = () => {
         </ListElement>
         <ListElement>
           <NavItem to="/uses/" activeClassName={activeClassName}>
-            my toys
+            toys
           </NavItem>
         </ListElement>
       </StyledList>

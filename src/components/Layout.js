@@ -74,7 +74,7 @@ const Layout = ({ children }) => {
         <meta property="og:type" content="website" />
         {/* <meta property="og:url" content="https://rounakvyas.me" /> */}
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:title" content="Rounak Vyas" />
+        <meta name="twitter:title" content="Mevin G Monson" />
         <meta name="twitter:description" content="Personal Website" />
         <meta name="twitter:creator" content="@pitsron143" />
       </Helmet>
