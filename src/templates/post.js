@@ -1,11 +1,11 @@
-import React from 'react';
-import { graphql } from 'gatsby';
-import Helmet from 'react-helmet';
-import styled from 'styled-components';
-import { MDXRenderer } from 'gatsby-plugin-mdx';
+import React from "react";
+import { graphql } from "gatsby";
+import Helmet from "react-helmet";
+import styled from "styled-components";
+import { MDXRenderer } from "gatsby-plugin-mdx";
 
-import Layout from './../components/Layout';
-import { Disqus } from 'gatsby-plugin-disqus'
+import Layout from "./../components/Layout";
+import { Disqus } from "gatsby-plugin-disqus";
 
 const StyledPostDate = styled.time`
   color: #999;
@@ -17,14 +17,13 @@ const StyledPostDate = styled.time`
 `;
 
 const PostTemplate = ({ data }) => {
-
   const { frontmatter, body } = data.mdx;
 
   return (
     <Layout>
       {frontmatter.title && (
         <Helmet>
-          <title>Rounak Vyas | {frontmatter.title}</title>
+          <title>Mevin G Monson | {frontmatter.title}</title>
         </Helmet>
       )}
       {frontmatter.title && (

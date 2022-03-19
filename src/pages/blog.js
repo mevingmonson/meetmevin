@@ -18,7 +18,7 @@ const BlogPage = (props) => {
   return (
     <Layout>
       {/* <BlogPageInner {...props} /> */}
-      Coming Soon
+      Coming Soon!
     </Layout>
   );
 };
