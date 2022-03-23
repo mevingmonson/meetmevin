@@ -36,7 +36,7 @@ const Index = () => (
         IBM Plex Mono
       </XA>{" "}
       and the sans-serif is{" "}
-      <XA href="https://fonts.google.com/specimen/PT+Sans">PT Sans</XA>.
+      <XA href="https://fonts.google.com/specimen/Rubik">Rubik</XA>.
     </p>
   </Layout>
 );

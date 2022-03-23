@@ -44,7 +44,7 @@ const StyledTitle = styled.h1`
 `;
 
 const TitleLink = styled(Link)`
-  text-transform: lowercase;
+  text-transform: capitalize;
   font-size: 36px;
   color: var(--text-color);
   text-decoration: none;
