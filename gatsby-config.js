@@ -7,6 +7,16 @@ module.exports = {
     siteUrl: "https://admiring-poincare-c43d82.netlify.app/",
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: ["G-WEEKJZ4D7R"],
+        pluginConfig: {
+          head: true,
+          respectDNT: false,
+        },
+      },
+    },
     "gatsby-plugin-dark-mode",
     {
       resolve: "gatsby-plugin-styled-components",
@@ -55,12 +65,6 @@ module.exports = {
         color: "#0000ff",
       },
     },
-    // {
-    //   resolve: 'gatsby-plugin-google-analytics',
-    //   options: {
-    //     trackingId: 'UA-123665788-1'
-    //   }
-    // },
     "gatsby-plugin-twitter",
     {
       resolve: `gatsby-plugin-mdx`,

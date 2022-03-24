@@ -20,7 +20,7 @@
     "gatsby-plugin-dark-mode": "^1.1.2",
     "gatsby-plugin-disqus": "^1.2.2",
     "gatsby-plugin-feed": "^2.8.0",
-    "gatsby-plugin-google-analytics": "^2.0.13",
+    "gatsby-plugin-google-gtag": "^4.10.0",
     "gatsby-plugin-mdx": "^1.2.46",
     "gatsby-plugin-nprogress": "^2.0.8",
     "gatsby-plugin-react-helmet": "^3.0.6",
